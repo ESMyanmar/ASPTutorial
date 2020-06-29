@@ -1,0 +1,5 @@
+/Users/user/Desktop/Projects/ASP.net/ASPStepByStep/ASPStepByStep/bin/ASPStepByStep.dll
+/Users/user/Desktop/Projects/ASP.net/ASPStepByStep/ASPStepByStep/bin/ASPStepByStep.pdb
+/Users/user/Desktop/Projects/ASP.net/ASPStepByStep/ASPStepByStep/obj/Debug/ASPStepByStep.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Projects/ASP.net/ASPStepByStep/ASPStepByStep/obj/Debug/ASPStepByStep.dll
+/Users/user/Desktop/Projects/ASP.net/ASPStepByStep/ASPStepByStep/obj/Debug/ASPStepByStep.pdb
